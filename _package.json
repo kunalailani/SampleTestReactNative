@@ -1,0 +1,17 @@
+{
+  "name": "SampleTestReactApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "16.0.0-beta.5",
+    "react-native": "0.49.3",
+    "react-native-swiper": "^1.5.13",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0"
+  },
+}
