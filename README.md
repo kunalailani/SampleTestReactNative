@@ -17,7 +17,12 @@
 yarn install
 ```
 
-## Build app and test app
+## Build app
+For Android device
 ```
-yarn start
+yarn start or yarn android
+```
+For Ios device
+```
+yarn ios
 ```
